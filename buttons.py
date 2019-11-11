@@ -1,4 +1,4 @@
-# Codemy.com on YOUTUBE Create Graphical User Interfaces With Python and TKINTER
+# Codemy.com on YOUTUBE Creating Buttons With Python and TKINTER
 
 import tkinter as tk 
 
